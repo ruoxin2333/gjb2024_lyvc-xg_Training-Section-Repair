@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Main-Class: com.ruoyi.common.utils.html.EscapeUtil
+Class-Path: mybatis-spring-boot-autoconfigure-2.2.0.jar j2objc-annotatio
+ ns-1.1.jar pagehelper-spring-boot-autoconfigure-1.3.1.jar oshi-core-5.8
+ .0.jar quartz-2.3.2.jar lombok-1.18.22.jar shiro-config-ogdl-1.8.0.jar 
+ velocity-1.7.jar springfox-oas-3.0.0.jar fastjson-1.2.78.jar spring-boo
+ t-starter-jdbc-2.5.6.jar poi-ooxml-schemas-4.1.2.jar spring-jcl-5.3.12.
+ jar swagger-annotations-1.5.22.jar springfox-core-3.0.0.jar ehcache-cor
+ e-2.6.11.jar java-jwt-3.4.0.jar spring-context-support-5.3.12.jar byte-
+ buddy-1.10.22.jar shiro-config-core-1.8.0.jar jsqlparser-4.0.jar hibern
+ ate-validator-6.2.0.Final.jar mchange-commons-java-0.2.15.jar log4j-api
+ -2.14.1.jar commons-fileupload-1.4.jar spring-plugin-core-2.0.0.RELEASE
+ .jar druid-spring-boot-starter-1.2.6.jar shiro-spring-1.8.0.jar mybatis
+ -plus-annotation-3.4.2.jar error_prone_annotations-2.2.0.jar jsr305-3.0
+ .2.jar spring-expression-5.3.12.jar jul-to-slf4j-1.7.32.jar mapstruct-1
+ .3.1.Final.jar j2objc-annotations-1.3.jar springfox-schema-3.0.0.jar ja
+ ckson-annotations-2.12.5.jar shiro-crypto-cipher-1.8.0.jar springfox-sp
+ ring-web-3.0.0.jar jackson-module-parameter-names-2.12.5.jar commons-be
+ anutils-1.9.4.jar spring-aop-5.3.12.jar druid-1.2.6.jar mybatis-plus-ex
+ tension-3.4.2.jar commons-lang3-3.12.0.jar snakeyaml-1.28.jar jackson-d
+ atatype-jsr310-2.12.5.jar shiro-ehcache-1.8.0.jar xmlbeans-3.1.0.jar th
+ ymeleaf-extras-shiro-2.1.0.jar javassist-3.25.0-GA.jar logback-classic-
+ 1.2.6.jar knife4j-spring-ui-3.0.3.jar tomcat-embed-el-9.0.54.jar spring
+ -boot-starter-thymeleaf-2.5.6.jar spring-boot-starter-json-2.5.6.jar sp
+ ringfox-swagger2-3.0.0.jar mybatis-3.5.7.jar pagehelper-5.2.1.jar knife
+ 4j-spring-boot-starter-3.0.3.jar tomcat-embed-core-9.0.54.jar classmate
+ -1.5.1.jar shiro-crypto-core-1.8.0.jar checker-compat-qual-2.5.2.jar xm
+ lpull-1.1.3.1.jar tomcat-embed-websocket-9.0.54.jar shiro-cache-1.8.0.j
+ ar logback-core-1.2.6.jar checker-qual-2.11.1.jar swagger-core-1.5.22.j
+ ar httpclient-4.5.13.jar commons-io-2.11.0.jar knife4j-spring-boot-auto
+ configure-3.0.3.jar spring-boot-autoconfigure-2.5.6.jar jakarta.annotat
+ ion-api-1.3.5.jar shiro-web-1.8.0.jar jna-5.8.0.jar commons-collections
+ 4-4.4.jar weixin-java-miniapp-4.0.0.jar weixin-java-common-4.0.0.jar sp
+ ringfox-data-rest-3.0.0.jar listenablefuture-9999.0-empty-to-avoid-conf
+ lict-with-guava.jar classgraph-4.8.83.jar swagger-models-2.1.2.jar java
+ x.servlet-api-4.0.1.jar swagger-annotations-2.1.2.jar error_prone_annot
+ ations-2.3.4.jar xstream-1.4.14.jar spring-boot-starter-logging-2.5.6.j
+ ar attoparser-2.0.5.RELEASE.jar thymeleaf-spring5-3.0.12.RELEASE.jar jc
+ l-over-slf4j-1.7.32.jar curvesapi-1.06.jar commons-lang-2.4.jar mybatis
+ -spring-2.0.6.jar springfox-spring-webmvc-3.0.0.jar spring-boot-starter
+ -2.5.6.jar shiro-event-1.8.0.jar encoder-1.2.2.jar spring-webmvc-5.3.12
+ .jar log4j-to-slf4j-2.14.1.jar mybatis-spring-boot-starter-2.2.0.jar ht
+ tpcore-4.4.14.jar shiro-crypto-hash-1.8.0.jar bcprov-jdk15on-1.65.jar s
+ lf4j-api-1.7.32.jar gson-2.8.8.jar thymeleaf-extras-java8time-3.0.4.REL
+ EASE.jar springfox-spring-webflux-3.0.0.jar springfox-bean-validators-3
+ .0.0.jar mysql-connector-java-8.0.27.jar spring-web-5.3.12.jar spring-b
+ oot-starter-tomcat-2.5.6.jar jboss-logging-3.4.2.Final.jar httpmime-4.5
+ .13.jar xpp3_min-1.1.4c.jar failureaccess-1.0.1.jar commons-codec-1.15.
+ jar aspectjweaver-1.9.7.jar knife4j-spring-3.0.3.jar hutool-all-5.5.7.j
+ ar animal-sniffer-annotations-1.17.jar guava-27.0.1-android.jar pagehel
+ per-spring-boot-starter-1.3.1.jar swagger-models-1.5.22.jar spring-boot
+ -starter-validation-2.5.6.jar jna-platform-5.8.0.jar spring-boot-devtoo
+ ls-2.5.6.jar spring-jdbc-5.3.12.jar unbescape-1.1.6.RELEASE.jar bcpkix-
+ jdk15on-1.65.jar shiro-core-1.8.0.jar dom4j-2.1.3.jar poi-4.1.2.jar spr
+ ingfox-swagger-common-3.0.0.jar poi-ooxml-4.1.2.jar knife4j-core-3.0.3.
+ jar mybatis-plus-3.4.2.jar springfox-boot-starter-3.0.0.jar spring-cont
+ ext-5.3.12.jar commons-collections-3.2.2.jar spring-tx-5.3.12.jar valid
+ ation-api-2.0.1.Final.jar jackson-core-2.12.5.jar spring-core-5.3.12.ja
+ r SparseBitSet-1.2.jar jackson-datatype-jdk8-2.12.5.jar HikariCP-4.0.3.
+ jar spring-beans-5.3.12.jar spring-boot-starter-web-2.5.6.jar commons-c
+ ompress-1.19.jar spring-boot-starter-aop-2.5.6.jar jackson-dataformat-y
+ aml-2.12.5.jar springfox-spi-3.0.0.jar commons-math3-3.6.1.jar guava-29
+ .0-jre.jar shiro-lang-1.8.0.jar thymeleaf-3.0.12.RELEASE.jar UserAgentU
+ tils-1.21.jar mybatis-plus-core-3.4.2.jar easy-captcha-1.6.2.jar spring
+ -plugin-metadata-2.0.0.RELEASE.jar spring-boot-2.5.6.jar knife4j-annota
+ tions-3.0.3.jar jackson-databind-2.12.5.jar mybatis-plus-boot-starter-3
+ .4.2.jar jakarta.validation-api-2.0.2.jar
+
